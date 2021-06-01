@@ -15,6 +15,7 @@ gulpfile.js
 // Instalar las dependencias para desarrollo
 
 npm install --save-dev gulp
+
 npm install --save-dev gulp-sass
 
 // Si se comparte el proyecto, solo deben ejecutar
